@@ -8,8 +8,8 @@ from sqlalchemy.ext.declarative import declarative_base
 # db_url = 'sqlite:///./todo.db'
 
 # this one is for postgress
-db_url = 'postgresql://postgres:zz2828@localhost/todo'
-
+# db_url = 'postgresql://postgres:zz2828@localhost/todo'
+db_url = 'postgresql://gflpoptp:r2clggYVe9EK8UsumhwB2Ln-99WRWMpH@flora.db.elephantsql.com/gflpoptp'
 # for sqlite
 # engine = create_engine(db_url,connect_args={'check_same_thread':False})
 
